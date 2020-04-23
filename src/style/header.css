@@ -1,0 +1,12 @@
+.header {
+    height: 150px;
+    background-color: rgb(170, 153, 192);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .header span{
+    color: white;
+    font-family: monospace;
+    font-size: 2em;
+  }

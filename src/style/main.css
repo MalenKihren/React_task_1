@@ -1,0 +1,19 @@
+.todoList {
+    list-style: none;
+    justify-content: center;
+  }
+  
+  
+  .todoList .listItem {
+
+    box-shadow: 0 0 10px rgba(50, 0, 0, 0.774);
+    width: 25%;
+    height: auto;
+    margin: 10px;
+    background-color: rgb(158, 118, 187);
+  }
+  .todoList .listItem .todoItem {
+    align-items: center;
+    font-size: 20px;
+    font-weight: bold;
+  }
